@@ -11,6 +11,8 @@
 
 *MENTOR*: NEELA SANTHOSH KUMAR
 
+![Image](https://github.com/user-attachments/assets/f4252287-1abe-49ef-845a-3de4f2a9e9c0)
+
 Task 1: Big Data Analysis using PySpark or Dask
 Loading and inspecting the dataset.
 Performing data cleaning (handling missing values, duplicates, and outliers).
